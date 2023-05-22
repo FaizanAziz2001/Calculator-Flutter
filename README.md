@@ -1,5 +1,5 @@
 # Calculator-Flutter
-Calculator Made in Flutter. The operations are performed using a library. For switching the theme, a widget has been created.
+Calculator Made in Flutter. The operations are performed using [math expression](https://pub.dev/packages/math_expressions) library for parsing strings. For switching the theme, a widget has been created.
 
 **Screenshots:**
 - [Dark mode](https://github.com/FaizanAziz2001/Calculator-Flutter/assets/98259868/40887171-a4e6-4561-be54-20775b20afa5)
